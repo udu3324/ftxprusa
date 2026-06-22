@@ -66,6 +66,10 @@ Start with these things roughly in order to calibrate. The config in this reposi
 4. Calculate your right "steps per mm" for your extruder [here](https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html)
 5. Calculate your [pressure advance value](https://ellis3dp.com/Print-Tuning-Guide/articles/index_pressure_advance.html) (i included the gcode i've generated in /gcode)
 
+| ![bed mesh](bed-mesh.png) | 
+|:--:| 
+| Calibrated bed mesh with PINDA and bed heated to 60C |
+
 
 ## Problems Encountered
 
