@@ -60,7 +60,7 @@ Note: I unfortunately do not have the cad for the mount between the y-axis linea
 
 Start with these things roughly in order to calibrate. The config in this repository is set to my values which may not work universally
 
-1. Calibrate your bed flatness
+1. Calibrate your bed flatness (z-offset, bed screws, etc.)
 2. PID tune your bed and nozzle heater
 3. Make sure you have the right [idler screw tension](https://help.prusa3d.com/article/idler-screw-tension_177367)
 4. Calculate your right "steps per mm" for your extruder [here](https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html)
@@ -79,8 +79,7 @@ The x-axis linear rails had to be shifted a bit to the left to allow more usage 
 
 Tilt on the x-axis is super common due to both leadscrews of the z axis not synced together with a belt, in addition to the bed being heavy and automatically lowering due to gravity and no power
 
-The z-axis is a little wonky and not consistent in its z movement, causing z-calibration to be really hard
-
+The z-axis is a little wonky and not consistent in its z movement, causing z-calibration to be really hard (the bed is susceptible to vibration due to too high of velocity/accel. on the z-axis)
 
 ## Results
 
