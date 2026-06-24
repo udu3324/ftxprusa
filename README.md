@@ -52,8 +52,9 @@ Note: I unfortunately do not have the cad for the mount between the y-axis linea
 6. Install the MK3S+ Screen display
 7. Connect all neccesary cables, with any extension or custom crimped cables if needed (you definitely do need them)
 8. Install MainsailOS onto your RPI Zero 2 W and install the config files provided in this repository, as well as config files for your slicer
-9. Add masking/painters tape to the aluminum bed to allow better first layer adhesion
-10. Done! You now have a giant printer that works half way and needs some more tinkering before its perfect
+9. Fix the USB DFU firmware issue prone on Einsy Rambo boards [here](https://github.com/PrusaOwners/mk3-32u2-firmware)
+10. Add masking/painters tape to the aluminum bed to allow better first layer adhesion
+11. Done! You now have a giant printer that works half way and needs some more tinkering before its perfect
 
 
 ## Calibration
